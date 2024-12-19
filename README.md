@@ -1,1 +1,1 @@
-# political-change_prediction_model_bundestagswahl
+# prediction_model_federal_electionl
